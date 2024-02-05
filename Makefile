@@ -4,10 +4,6 @@ SUBLEVEL = 302
 EXTRAVERSION =
 NAME = Blurry Fish Butt
 
-ifeq ($(MAKECMDGOALS),)
-MAKECMDGOALS := Image.lz4 
-endif
-
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
